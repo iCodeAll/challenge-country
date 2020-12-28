@@ -1,0 +1,73 @@
+{
+    "headerData": [
+        {
+            "id": "1",
+            "name": "Name",
+            "search": true,
+            "searchLabel": "country search",
+            "component": "input",
+            "value": "countryValue"
+        },
+        {
+            "id": "2",
+            "name": "Capital",
+            "search": true,
+            "searchLabel": "capital search",
+            "component": "input",
+            "value": "capitalValue"
+        },
+        {
+            "id": "3",
+            "name": "Languages",
+            "search": true,
+            "searchLabel": "language search",
+            "component": "input",
+            "value": "languageValue"
+        },
+        {
+            "id": "4",
+            "name": "Region",
+            "search": true,
+            "searchLabel": "region search",
+            "component": "dropbox"
+        },
+        {
+            "id": "5",
+            "name": "Population",
+            "search": true,
+            "searchLabel": "population",
+            "component": "range"
+        },
+        {
+            "id": "6",
+            "name": "Timezones",
+            "search": false
+        }
+    ],
+    "regionData": [
+        {
+            "id": "1",
+            "name": "Asia"
+        },
+        {
+            "id": "2",
+            "name": "Europe"
+        },
+        {
+            "id": "3",
+            "name": "Africa"
+        },
+        {
+            "id": "4",
+            "name": "Americas"
+        },
+        {
+            "id": "5",
+            "name": "Oceania"
+        },
+        {
+            "id": "6",
+            "name": "Polar"
+        }
+    ]
+}
